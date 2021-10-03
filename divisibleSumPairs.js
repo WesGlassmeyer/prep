@@ -9,7 +9,6 @@ function divisibleSumPairs(n, k, ar) {
       }
     }
   }
-  console.log(answer);
   return answer;
 }
 
